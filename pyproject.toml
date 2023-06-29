@@ -9,7 +9,7 @@ authors = [
   { name="Example AuthorAchraf Mataich", email="author@example.com" },
 ]
 description = "A small example package"
-readme = "README.MDmd"
+readme = "README.md"
 requires-python = ">=3.9"
 classifiers = [
     "Programming Language :: Python :: 3",

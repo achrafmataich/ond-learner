@@ -1,5 +1,1 @@
-def printg():
-    """
-    This is a basic function
-    """
-    print ("OFC my G")
+from c_loop import Looper

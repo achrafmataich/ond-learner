@@ -1,1 +1,3 @@
 .venv/
+dist/
+.test_venv

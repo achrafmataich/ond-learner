@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: ond-learner-achrafmataich
+Version: 1.0.1
+Summary: A small example package
+Author-email: Example AuthorAchraf Mataich <author@example.com>
+Project-URL: Homepage, https://github.com/achrafmataich/ond-learner
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+License-File: LICENCE
+
+# mylib
